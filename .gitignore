@@ -1,0 +1,12 @@
+*
+!/.gitignore
+!/CMakeLists.txt
+!/README.md
+!/run.sh
+!/src/
+!/src/*.cpp
+!/include/
+!/include/matrix_arithmetic/
+!/include/matrix_arithmetic/*.hpp
+!/tests/
+!/tests/*.cpp
